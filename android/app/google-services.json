@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311403432500",
+    "project_id": "remoteconfig-9a9bf",
+    "storage_bucket": "remoteconfig-9a9bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311403432500:android:3c5b5d97305209f7301861",
+        "android_client_info": {
+          "package_name": "com.remoteconfig"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ5fWYfutoFX2mV0uaaKZP2IBcTHgZ9ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
